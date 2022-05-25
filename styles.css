@@ -26,22 +26,20 @@ body {
 .row input {
   font-size: 21px;
   text-align: center;
-  width: 291px;
-  font-size: 20px;
+  width: 300px;
   margin: 10px;
-  padding: 10px 0px;
+  padding: 12px 0px;
   border: 2px solid #838996;
   border-radius: 10px;
   background: #d4d4d4;
   box-shadow: 3px 3px 5px black;
-  font-size: 20px;
   font-weight: bold;
   /* margin-top: -50px; */
 }
 .container {
   background: #575757;
   width: 27%;
-  height: 60%;
+  height: 63%;
   border-radius: 30px;
   box-shadow: 5px 5px 5px 5px grey;
 }
