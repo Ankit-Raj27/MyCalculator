@@ -31,3 +31,16 @@
 .btn-C{
     background-color:#979aaa;
 }
+@media (max-width:1028px) {
+
+    .container{
+        width:100px;
+        height:100px;
+        position: relative;
+    }
+    .button {
+      position: absolute;
+      font-size: 0.5rem;
+
+    }
+  }
